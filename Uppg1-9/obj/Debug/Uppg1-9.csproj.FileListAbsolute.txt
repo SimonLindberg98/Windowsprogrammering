@@ -1,1 +1,9 @@
 C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\bin\Debug\Uppg1-9.exe.config
+C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\bin\Debug\Uppg1-9.exe
+C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\bin\Debug\Uppg1-9.pdb
+C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\obj\Debug\Uppg1-9.csprojResolveAssemblyReference.cache
+C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\obj\Debug\Uppg1_9.Form1.resources
+C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\obj\Debug\Uppg1_9.Properties.Resources.resources
+C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\obj\Debug\Uppg1-9.csproj.GenerateResource.Cache
+C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\obj\Debug\Uppg1-9.exe
+C:\Users\sli0504\Github\Windowsprogrammering\Uppg1-9\obj\Debug\Uppg1-9.pdb
