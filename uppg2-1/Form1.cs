@@ -19,17 +19,18 @@ namespace uppg2_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 f1 = new Form1();
+            this.Text = "Knappklick!";
+            
         }
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
         {
-
+            this.Text = "Ner!";
         }
 
         private void Form1_MouseUp(object sender, MouseEventArgs e)
         {
-
+            this.Text = "Upp!";
         }
     }
 }
