@@ -8,6 +8,9 @@ D:\Github\Windowsprogrammering\uppg3-3\obj\Debug\uppg3_3.Properties.Resources.re
 D:\Github\Windowsprogrammering\uppg3-3\obj\Debug\uppg3-3.csproj.GenerateResource.Cache
 D:\Github\Windowsprogrammering\uppg3-3\obj\Debug\uppg3-3.exe
 D:\Github\Windowsprogrammering\uppg3-3\obj\Debug\uppg3-3.pdb
+<<<<<<< HEAD
 C:\Users\sli0504\Google Drive\Programmering\C#\prog1 - Simon Lindberg\WindowsProgrammering\uppg3-3\bin\Debug\uppg3-3.exe.config
 C:\Users\sli0504\Google Drive\Programmering\C#\prog1 - Simon Lindberg\WindowsProgrammering\uppg3-3\obj\Debug\uppg3-3.exe
 C:\Users\sli0504\Google Drive\Programmering\C#\prog1 - Simon Lindberg\WindowsProgrammering\uppg3-3\obj\Debug\uppg3-3.pdb
+=======
+>>>>>>> origin/master

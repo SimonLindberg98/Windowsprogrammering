@@ -66,7 +66,7 @@ namespace uppg2_5
 
         private void githubButton_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start(@"C:\Users\sli0504\AppData\Local\Apps\2.0\O0NN8J1M.PHQ\6L99T7E8.ER5\gith..tion_317444273a93ac29_0003.0000_c74cce3a838f9354");
+            System.Diagnostics.Process.Start(@"C:\Users\sli0504\AppData\Local\Apps\2.0\O0NN8J1M.PHQ\6L99T7E8.ER5\gith..tion_317444273a93ac29_0003.0000_c74cce3a838f9354\GitHub.exe");
         }
 
         private void photoshopButton_Click(object sender, EventArgs e)
