@@ -25,11 +25,11 @@ namespace uppg3_12
             {
                 if(text.Substring(i,1) == " ")
                 {
-                    text = text.Remove(i ,1);
+                    text = text.Replace(" ", string.Empty);
                 }
             }
 
-            if(IsPalindrome(textBox1.Text) == true)
+            if(IsPalindrome(text) == true)
             {
                 yesNoLabel.Text = "Sant";
             }
@@ -37,7 +37,10 @@ namespace uppg3_12
             {
                 yesNoLabel.Text = "Falskt";
             }
+            //yesNoLabel.Text = text;
         }
+
+        
 
         public static bool IsPalindrome(string value)
         {
