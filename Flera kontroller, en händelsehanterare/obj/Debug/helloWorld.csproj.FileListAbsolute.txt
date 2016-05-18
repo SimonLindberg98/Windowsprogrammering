@@ -1,0 +1,8 @@
+C:\Users\sli0504\Github\Windowsprogrammering\Flera kontroller, en händelsehanterare\bin\Debug\Flera kontroller, en händelsehanterare.exe.config
+C:\Users\sli0504\Github\Windowsprogrammering\Flera kontroller, en händelsehanterare\bin\Debug\Flera kontroller, en händelsehanterare.exe
+C:\Users\sli0504\Github\Windowsprogrammering\Flera kontroller, en händelsehanterare\bin\Debug\Flera kontroller, en händelsehanterare.pdb
+C:\Users\sli0504\Github\Windowsprogrammering\Flera kontroller, en händelsehanterare\obj\Debug\helloWorld.Form1.resources
+C:\Users\sli0504\Github\Windowsprogrammering\Flera kontroller, en händelsehanterare\obj\Debug\Flera_kontroller__en_händelsehanterare.Properties.Resources.resources
+C:\Users\sli0504\Github\Windowsprogrammering\Flera kontroller, en händelsehanterare\obj\Debug\helloWorld.csproj.GenerateResource.Cache
+C:\Users\sli0504\Github\Windowsprogrammering\Flera kontroller, en händelsehanterare\obj\Debug\Flera kontroller, en händelsehanterare.exe
+C:\Users\sli0504\Github\Windowsprogrammering\Flera kontroller, en händelsehanterare\obj\Debug\Flera kontroller, en händelsehanterare.pdb

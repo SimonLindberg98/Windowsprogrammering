@@ -8,29 +8,31 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace uppg3_14
+namespace Kontrollvektorer
 {
     public partial class Form1 : Form
     {
+        Label[] v;
         public Form1()
         {
             InitializeComponent();
+
+            v = new Label[] { label1, label2, label3, label4, label5, label6 };
         }
 
-        private void unevenButton_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            for (int i = 1; i < 100; i+=2)
+            for (int i = 0; i < v.Length; i++)
             {
-                listBox1.Items.Add("" + i);
+                v[i].Text = "Hej " + i;
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(1);
-            for (int i = 2; i < 1000000; i=i*2)
+            for (int i = 0; i < v.Length; i++)
             {
-                listBox1.Items.Add(i);
+                v[i].Text = "Label " + i;
             }
         }
     }
