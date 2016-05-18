@@ -1,0 +1,9 @@
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\bin\Debug\Kontrollvektorer.exe.config
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\bin\Debug\Kontrollvektorer.exe
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\bin\Debug\Kontrollvektorer.pdb
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\obj\Debug\Kontrollvektorer.csprojResolveAssemblyReference.cache
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\obj\Debug\Kontrollvektorer.Form1.resources
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\obj\Debug\Kontrollvektorer.Properties.Resources.resources
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\obj\Debug\Kontrollvektorer.csproj.GenerateResource.Cache
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\obj\Debug\Kontrollvektorer.exe
+C:\Users\sli0504\Github\Windowsprogrammering\Kontrollvektorer\obj\Debug\Kontrollvektorer.pdb

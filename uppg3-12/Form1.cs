@@ -31,13 +31,19 @@ namespace uppg3_12
 
             if(IsPalindrome(text) == true)
             {
-                yesNoLabel.Text = "Sant";
+                if(text.Length == 0)
+                {
+                    yesNoLabel.Text = "Falskt";
+                }
+                else
+                {
+                    yesNoLabel.Text = "Sant";
+                }
             }
             else
             {
                 yesNoLabel.Text = "Falskt";
             }
-            //yesNoLabel.Text = text;
         }
 
         
